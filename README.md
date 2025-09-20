@@ -31,18 +31,20 @@ cool Nova (cat) PCB Keychain with lights, switch and rechargeable battery.
 | KT-0805G | $0.0642 | 6 |
 | RC0402FR-071KL | $0.01 | 20 |
 | GT-TZ084B-H015-L1 | $0.063 | 5 |
-
-Merchandise Total | $19.68
-Shipping Estimate | $13.12
-Total: $32.80
+| | | |
+| **Merchandise Total** | **$19.68** | |
+| **Shipping Estimate** | **$13.12** | |
+| **Total** | **$32.80** | |
 
 =====================================
 
-[Lipo Battery](https://robu.in/product/wly601235-240mah-3-7v-single-cell-rechargeable-lipo-battery/) | $1.80
-[TP4056 Charging Module](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) $0.15
-Shipping Estimate | $0.56
-Mics (wires, etc): 2$
-Total: 4.50
+| Item | Price |
+| :--- | :--- |
+| [Lipo Battery](https://robu.in/product/wly601235-240mah-3-7v-single-cell-rechargeable-lipo-battery/) | $1.80 |
+| [TP4056 Charging Module](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) | $0.15 |
+| Shipping Estimate | $0.56 |
+| Mics (wires, etc) | $2.00 |
+| **Total** | **$4.51** |
 
 ---
 
